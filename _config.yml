@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  gorffy
 
 # Build settings
-theme: gorffy/moonwalk
+remote_theme: gorffy/moonwalk
 plugins:
   - jekyll-feed
 
