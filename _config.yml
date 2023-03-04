@@ -29,7 +29,8 @@ remote_theme: gorffy/moonwalk
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  
+ 
+ permalink: /:slug
   
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
